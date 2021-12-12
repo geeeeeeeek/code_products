@@ -1,7 +1,6 @@
 # 京东App秒杀抢购流程接口分析
 
-App数据抓包必需工具
-必需工具：小米手机，Charles，HttpCanary
+App数据抓包必需工具：小米手机，Charles，HttpCanary
 
 从2021年2月后，京东只限于从app发起抢购，所以，网上的很多工具已经无效了。只能分析app端的底层协议和流程。
 
@@ -21,9 +20,9 @@ http://api.m.jd.com/client.action?functionId=genToken&clientVersion=10.1.2&build
 请求后：
 ```
 {
-	"code": "0",
-	"tokenKey": "AAEAMO6g-6W-wURCFfDn3vw7jvHvMfP_gGjoHwIwW_orBxjg62m844R-Urf4szuLvgfbDA1",
-	"url": "https://un.m.jd.com/cgi-bin/app/appjmp"
+    "code": "0",
+    "tokenKey": "AAEAMO6g-6W-wURCFfDn3vw7jvHvMfP_gGjoHwIwW_orBxjg62m844R-Urf4szuLvgfbDA1",
+    "url": "https://un.m.jd.com/cgi-bin/app/appjmp"
 }
 ```
 2. 然后是appjmp步骤，请求链接为: ```https://un.m.jd.com/cgi-bin/app/appjmp``` 需要用到第一步中的tokenKey，请求后的response.headers：
