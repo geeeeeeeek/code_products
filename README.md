@@ -26,7 +26,7 @@ http://api.m.jd.com/client.action?functionId=genToken&clientVersion=10.1.2&build
 	"url": "https://un.m.jd.com/cgi-bin/app/appjmp"
 }
 ```
-2. 然后是appjmp步骤，请求链接为：https://un.m.jd.com/cgi-bin/app/appjmp，需要用到第一步中的tokenKey，请求后的response.headers：
+2. 然后是appjmp步骤，请求链接为: ```https://un.m.jd.com/cgi-bin/app/appjmp``` 需要用到第一步中的tokenKey，请求后的response.headers：
 
 ```
 location: https://divide.jd.com/user_routing?skuId=100012043978&mid=Ys6S3Ax2ML**********PS9MLCKdo&lng=109.568546&lat=33.999595&sid=470f133fa4**********9d6cf6bew
