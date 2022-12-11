@@ -20,7 +20,7 @@
 [抢购软件exe试用下载](https://raw.githubusercontent.com/geeeeeeeek/jd-seckill-2022/main/jd%E6%8A%A2%E8%B4%AD%E8%AF%95%E7%94%A8%E7%89%88.exe)
 
 
-注意：京东茅台抢购，是有门槛的，帐号信用分需104分以上。 可使用京东app扫下面二维码查看自己的信用分。
+注意：京东茅台抢购，是有门槛的，帐号信用分需104分以上。 可使用京东app扫码查看信用分。
 ![](https://github.com/geeeeeeeek/jd-seckill-2022/blob/main/fenshu.jpg?raw=true)
   
 
