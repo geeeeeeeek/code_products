@@ -15,9 +15,7 @@
 
 拿到跳转链接后，直接将该跳转链接仍给浏览器即可，浏览器会经过两次302跳转得到sekill.action链接，从而渲染出提交订单页面，此时我们需要模拟点击“提交订单”按钮，实现抢购。（可以使用Selenium、Pyppeteer或Playwright等类库 来模拟浏览器）
 
-软件试用
 
-[抢购软件exe试用下载](https://raw.githubusercontent.com/geeeeeeeek/jd-seckill-2022/main/jd%E6%8A%A2%E8%B4%AD%E8%AF%95%E7%94%A8%E7%89%88.exe)
 
 
 注意：京东茅台抢购，是有门槛的，帐号信用分需104分以上。 可使用京东app扫码查看信用分。
