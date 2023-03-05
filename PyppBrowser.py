@@ -74,7 +74,7 @@ class PyppBrowser:
 
 if __name__ == '__main__':
 
-    # 跳转链接
+    # 跳转链接，把跳转链接扔进pypp即可
     url = 'https://un.m.jd.com/cgi-bin/app/appjmp?tokenKey=AAEAIK0eJgVbAoFuRh0JO_DEXpCXyW8s0i-WkbAjGUrmvEIh1&to=https%3A%2F%2Fdivide.jd.com%2Fuser_routing%3FskuId%3D100018466614%26from%3Dapp'
     pyppBrowser = PyppBrowser()
     pyppBrowser.jump(url)
