@@ -22,7 +22,7 @@
 ![](https://github.com/geeeeeeeek/jd-seckill-2022/blob/main/fenshu.jpg?raw=true)
   
 
-技术咨询QQ：285126081
+技术咨询：lengqin1024 (微信)
 
 
 
