@@ -22,6 +22,11 @@
 ![](https://github.com/geeeeeeeek/jd-seckill-2022/blob/main/fenshu.jpg?raw=true)
   
 
+### 软件试用
+
+[点击下载](https://github.com/geeeeeeeek/jd-seckill-2023/raw/main/kill-maotai.exe)
+
+
 获取完整代码请联系：lengqin1024 (微信)
 
 
