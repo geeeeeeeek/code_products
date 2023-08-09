@@ -27,8 +27,9 @@
 下架
 
 
+### 技术交流
 
-获取完整代码请联系：lengqin1024 (微信)
+技术交流：lengqin1024 (微信)
 
 
 注意事项：抓包的时候，最好是抓旧版的jd apk的cookie，不要用最新的apk抓。旧版apk[下载地址](https://www.apkmirror.com/apk/%e4%ba%ac%e4%b8%9c/%e4%ba%ac%e4%b8%9c-%e4%b8%8d%e8%b4%9f%e6%af%8f%e4%b8%80%e4%bb%bd%e7%83%ad%e7%88%b1/%e4%ba%ac%e4%b8%9c-%e4%b8%8d%e8%b4%9f%e6%af%8f%e4%b8%80%e4%bb%bd%e7%83%ad%e7%88%b1-10-5-0-release/%e4%ba%ac%e4%b8%9c-10-5-0-android-apk-download/)
