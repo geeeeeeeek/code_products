@@ -130,3 +130,30 @@
 
 源码下载：
 [https://github.com/geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_video)
+
+
+#### 13.基于django开发的学生信息管理系统
+
+平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
+
+源码下载：
+[https://github.com/geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_student)
+
+
+
+#### 14.基于django开发的学生宿舍管理系统
+
+平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
+
+源码下载：
+[https://github.com/geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_dorm)
+
+
+
+#### 15.基于django开发的药店药品信息管理系统
+
+平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
+
+源码下载：
+[https://github.com/geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_yaodian)
+
