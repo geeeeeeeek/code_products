@@ -137,7 +137,7 @@
 平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
 
 源码下载：
-[https://github.com/geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_student)
+[https://github.com/geeeeeeeek/python_student](https://github.com/geeeeeeeek/python_student)
 
 
 
@@ -146,7 +146,7 @@
 平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
 
 源码下载：
-[https://github.com/geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_dorm)
+[https://github.com/geeeeeeeek/python_dorm](https://github.com/geeeeeeeek/python_dorm)
 
 
 
@@ -155,5 +155,5 @@
 平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
 
 源码下载：
-[https://github.com/geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_yaodian)
+[https://github.com/geeeeeeeek/python_yaodian](https://github.com/geeeeeeeek/python_yaodian)
 
