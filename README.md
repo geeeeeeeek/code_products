@@ -1,38 +1,132 @@
-# 京东App秒杀抢购流程接口分析
-
-京东秒杀，网上的很多工具已经无效了。只能分析app端的底层协议和流程。抓包方式推荐：charles+夜神模拟器
-
-经分析：
-
-秒杀一共分为两个步骤：
-第一步是获取跳转链接，第二步是访问跳转链接。
-
-第一步：获取跳转链接
-
-跳转链接是指形如：https://un.m.jd.com/cgi-bin/app/appjmp 的链接，获取该链接，还需要一个前置步骤，即获取token和拼接url。先说获取token，获取token是通过genToken接口获取的，然后将获取到的tokenKey和url拼接起来，得到跳转链接。
-
-第二步：访问跳转链接
-
-拿到跳转链接后，直接将该跳转链接仍给浏览器即可，浏览器会经过两次302跳转得到sekill.action链接，从而渲染出提交订单页面，此时我们需要模拟点击“提交订单”按钮，实现抢购。（可以使用Selenium、Pyppeteer或Playwright等类库 来模拟浏览器）
+> 给大家推荐几个基于python/django的毕业设计/课程设计。
 
 
+### 1. 网上商城系统
 
+这是一个基于python+vue开发的商城网站，平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
 
-注意：京东茅台抢购，是有门槛的，帐号信用分需104分以上。 可使用京东app扫码查看信用分。
-![](https://github.com/geeeeeeeek/jd-seckill-2022/blob/main/fenshu.jpg?raw=true)
-  
+整个平台包括前台和后台两个部分。
 
-### 软件试用
+- 前台功能包括：首页、商品详情页、用户中心模块。
 
-下架
+- 后台功能包括：总览、订单管理、商品管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
 
+源码地址：
 
-### 注意事项
+[https://github.com/geeeeeeeek/shop](https://github.com/geeeeeeeek/shop)
 
- 
+#### 2.在线视频点播网站
 
+一个视频点播网站，因为笔者非常喜欢观看视频，尤其是YouTube、bilibili都是笔者非常喜欢的视频网站，所以想自己实现一个简单的视频点播网站，学以致用。本项目分为前台和后台。
 
-注意事项：抓包的时候，最好是抓旧版的jd apk的cookie，不要用最新的apk抓。旧版apk[下载地址](https://www.apkmirror.com/apk/%e4%ba%ac%e4%b8%9c/%e4%ba%ac%e4%b8%9c-%e4%b8%8d%e8%b4%9f%e6%af%8f%e4%b8%80%e4%bb%bd%e7%83%ad%e7%88%b1/%e4%ba%ac%e4%b8%9c-%e4%b8%8d%e8%b4%9f%e6%af%8f%e4%b8%80%e4%bb%bd%e7%83%ad%e7%88%b1-10-5-0-release/%e4%ba%ac%e4%b8%9c-10-5-0-android-apk-download/)
+前台功能：视频列表展示、视频播放详情、详情评论、个人中心
 
+后台功能：视频管理、评论管理、用户管理、反馈管理
 
+源码下载：
 
+[https://github.com/geeeeeeeek/videoproject/](https://github.com/geeeeeeeek/videoproject/)
+
+### 3.在线图书借阅系统
+
+这是一个基于python+vue开发的图书借阅网站。平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
+
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、图书详情页、用户中心模块。
+
+- 后台功能包括：总览、借阅管理、图书管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码下载：
+
+[https://github.com/geeeeeeeek/book](https://github.com/geeeeeeeek/book)
+
+#### 4.电影链接搜索网站 
+
+该项目是基于python的web类库django开发的一套web网站，给同学做的毕业设计。本人的研究方向是一项关于搜索的研究项目。在该项目中，笔者开发了一个简单版的搜索网站，实现了对数据库数据的检索和更新。通过开发该项目，笔者学习和巩固了python的相关技术和框架。
+
+源码下载：
+
+[https://github.com/geeeeeeeek/bt](https://github.com/geeeeeeeek/bt)
+
+#### 5.基于python的租房网站-房屋出租租赁系统
+
+该项目是基于python/django/vue开发的房屋租赁系统/租房平台，作为学生的课程作业作品。内容制作非常精良。
+
+源码下载：
+
+[https://github.com/geeeeeeeek/python_zf](https://github.com/geeeeeeeek/python_zf)
+
+#### 6.基于python的家教预约网站-家教信息平台系统
+
+该项目是基于python/django/vue开发的家教信息平台，作为家长和学生请家教的平台。整个平台包括前台和后台两个部分。前台功能包括：首页、家教详情页、用户中心、家教入驻模块。后台功能包括：总览、家教管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码下载：
+
+[https://github.com/geeeeeeeek/python_jiajiao](https://github.com/geeeeeeeek/python_jiajiao)
+
+#### 7.基于python+django的外卖点餐系统
+
+该系统是基于python+django开发的外卖点餐系统。适用场景：大学生、课程作业、毕业设计。学习过程中，如遇问题可以在github给作者留言。平台采用B/S结构，后端采用主流的Python语言+django框架进行开发，前端采用主流的Vue.js进行开发。
+
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、菜品详情页、订单中心、用户中心模块。
+- 后台功能包括：总览、订单管理、菜品管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码下载：
+[https://github.com/geeeeeeeek/python_food](https://github.com/geeeeeeeek/python_food)
+
+#### 8.基于python+django的酒店预定网站-酒店客房管理系统
+
+ 该系统是基于python+django开发的酒店预定管理系统。适用场景：大学生、课程作业、毕业设计。学习过程中，如遇问题可在github给作者留言。
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、客房详情页、订单中心、用户中心模块。
+- 后台功能包括：总览、订单管理、客房管理、房间分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码下载：
+[https://github.com/geeeeeeeek/python_hotel](https://github.com/geeeeeeeek/python_hotel)
+
+#### 9.基于python+django的旅游信息网站-旅游景点门票管理系统
+
+该系统是基于python+django开发的旅游景点门票管理系统。是给师弟做的课程作业。
+
+平台采用B/S结构，后端采用主流的Python语言+django框架进行开发，前端采用主流的Vue.js进行开发。
+
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、景区详情页、门票购买、用户中心模块。
+- 后台功能包括：总览、订单管理、景区管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码下载：
+[https://github.com/geeeeeeeek/python_travel](https://github.com/geeeeeeeek/python_travel)
+
+#### 10.基于python+django开发的宠物商店-宠物管理系统设计与实现
+
+该系统是基于python+django开发的宠物商店-宠物管理系统。是给师妹开发的课程作业。现将源码开放给大家。
+整个平台包括前台和后台两个部分。
+- 前台功能包括：首页、宠物详情页、用户中心模块。
+- 后台功能包括：总览、订单管理、宠物管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码下载：
+[https://github.com/geeeeeeeek/python_pet](https://github.com/geeeeeeeek/python_pet)
+
+#### 11.基于python+django的二手商品交易平台-二手商品供需系统
+
+该项目是基于python的web类库django开发的一套web网站，二手商品交易平台，给师弟开发的课程作业。
+
+源码下载：
+[https://github.com/geeeeeeeek/mask](https://github.com/geeeeeeeek/mask)
+
+#### 12.基于django开发的视频点播网站
+
+平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
+
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、视频列表页面、视频详情页、用户中心模块。
+- 后台功能包括：总览、视频管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码下载：
+[https://github.com/geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_video)
