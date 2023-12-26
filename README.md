@@ -1,4 +1,4 @@
-> 给大家推荐几个基于python/django的毕业设计/课程设计。
+> 给大家推荐几个基于python/django的毕业设计/课程设计。如需java毕业设计/课程设计，请移步至[这里](https://github.com/geeeeeeeek/code_products/blob/main/java_readme.md)
 
 
 ### 1. 网上商城系统
