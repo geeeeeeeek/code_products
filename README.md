@@ -161,9 +161,73 @@
 源码下载：
 [https://github.com/geeeeeeeek/python_yaodian](https://github.com/geeeeeeeek/python_yaodian)
 
-## 16.在线ps网页版
+## 16.基于python+mysql的小区物业管理系统
 
-预览地址：[在线p图](https://zaixianps.net)
+功能包括：业主管理、小区物业管理、停车管理、报修管理、用户管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/geeeeeeeek/python_wuye](https://github.com/geeeeeeeek/python_wuye)
+
+
+## 17.基于python的社区养老管理系统
+
+功能包括：老人管理、护工管理、亲属管理、病史管理、房间管理、活动管理、用户管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/geeeeeeeek/python_yanglao](https://github.com/geeeeeeeek/python_yanglao)
+
+
+## 18.基于python的学生成绩管理系统
+
+功能包括：成绩管理、学生管理、课程管理、班级管理、用户管理、日志管理、系统信息模块。
+
+源码地址： [https://github.com/geeeeeeeek/python_score](https://github.com/geeeeeeeek/python_score)
+
+
+## 19.基于python+mysql+vue的医院门诊管理系统
+
+功能包括：医生管理、科室管理、护士管理、住院管理、药品管理、用户管理、日志管理、系统信息模块。
+
+源码地址： [https://github.com/geeeeeeeek/python_hospital](https://github.com/geeeeeeeek/python_hospital)
+
+
+## 20. 基于python+mysql+vue的停车场管理系统
+
+功能包括：车位管理、会员管理、停车场管理、违规管理、用户管理、日志管理、系统信息模块。
+
+源码地址： [https://github.com/geeeeeeeek/python_parking](https://github.com/geeeeeeeek/python_parking)
+
+
+## 21. 基于python+mysql+vue开发的家政预约管理系统
+
+功能包括：总览、家政管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址： [https://github.com/geeeeeeeek/python_jiazheng](https://github.com/geeeeeeeek/python_jiazheng)
+
+## 22. 基于python+mysql+vue开发的健身房管理系统
+
+功能包括：教练管理、会员管理、场地管理、设备管理、用户管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/geeeeeeeek/python_fitness](https://github.com/geeeeeeeek/python_fitness)
+
+## 23. 基于python+mysql+vue开发的宠物领养网站系统
+
+功能包括：总览、领养管理、宠物管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址： [https://github.com/geeeeeeeek/python_adopt](https://github.com/geeeeeeeek/python_adopt)
+
+
+## 24. 基于python+mysql+vue的租车平台/汽车租赁系统/车辆租赁
+
+功能包括：总览、车辆管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址： [https://github.com/geeeeeeeek/python_zuche](https://github.com/geeeeeeeek/python_zuche)
+
+
+## 25. 基于python+mysql+vue开发的大学生社团管理系统
+
+功能包括：总览、社团管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址： [https://github.com/geeeeeeeek/python_team](https://github.com/geeeeeeeek/python_team)
+
 
 
 如需帮助，可联系作者vx: lengqin1024
