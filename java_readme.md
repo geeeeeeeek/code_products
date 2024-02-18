@@ -1,6 +1,48 @@
 
 > 今天给大家推荐几个基于java+springboot+vue的毕业设计/课程设计。
 
+
+### 1.基于java的家政预约网站系统
+
+平台采用B/S结构，后端采用主流的Springboot框架进行开发，前端采用主流的Vue.js进行开发。
+
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、家政详情、家政入驻、用户中心模块。
+- 后台功能包括：家政管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、统计分析、系统信息模块。
+
+源码地址：https://github.com/geeeeeeeek/java_jiazheng
+
+### 2.基于java的宠物领养管理系统
+
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、宠物详情页、领养、用户中心模块。
+- 后台功能包括：总览、领养管理、宠物管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：https://github.com/geeeeeeeek/java_adopt
+
+### 3.基于java的汽车租赁管理系统/租车系统
+
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、车辆详情、车辆预订、用户中心模块。
+- 后台功能包括：车辆管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、统计分析、系统信息模块。
+
+源码地址：https://github.com/geeeeeeeek/java_zuche
+
+
+### 4.基于java的大学生社团管理系统
+
+平台采用B/S结构，后端采用主流的Springboot框架进行开发，前端采用主流的Vue.js进行开发。
+
+整个平台包括前台和后台两个部分。
+
+- 前台功能包括：首页、社团详情、申请加入、用户中心模块。
+- 后台功能包括：社团管理、分类管理、标签管理、成员管理、评论管理、用户管理、运营管理、日志管理、统计分析、系统信息模块。
+
+源码地址：https://github.com/geeeeeeeek/java_team
+
 ### 1. 网上商城系统
 
 这是一个基于java+springboot+vue开发的商城网站，平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
@@ -44,13 +86,7 @@ https://github.com/geeeeeeeek/java_video
 
 https://github.com/geeeeeeeek/java_book
 
-#### 4.电影链接搜索网站 
 
-该项目是基于python的web类库django开发的一套web网站，给同学做的毕业设计。本人的研究方向是一项关于搜索的研究项目。在该项目中，笔者开发了一个简单版的搜索网站，实现了对数据库数据的检索和更新。通过开发该项目，笔者学习和巩固了python的相关技术和框架。
-
-源码下载：
-
-[http://gitapp.cn](http://gitapp.cn)
 
 #### 5.基于java+springboot+vue的租房网站-房屋出租租赁系统
 
@@ -121,12 +157,7 @@ https://github.com/geeeeeeeek/java_travel
 
 https://github.com/geeeeeeeek/java_pet
 
-#### 11.基于java+springboot+vue的二手商品交易平台-二手商品供需系统
 
-该项目是基于java+springboot+vue开发的一套web网站，二手商品交易平台，给师弟开发的课程作业。
-
-源码下载：
-[http://gitapp.cn](http://gitapp.cn)
 
 #### 12.基于java+springboot+vue开发的视频点播网站
 
