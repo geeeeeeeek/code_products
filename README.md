@@ -30,6 +30,9 @@
 
 [https://github.com/geeeeeeeek/videoproject/](https://github.com/geeeeeeeek/videoproject/)
 
+在线演示：
+[https://v.gitapp.cn](https://v.gitapp.cn)
+
 ## 3.在线图书借阅系统
 
 这是一个基于python+vue开发的图书借阅网站。平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
@@ -251,6 +254,9 @@
 
 源码地址：[https://github.com/net936/python_music](https://github.com/net936/python_music)
 
+在线演示：
+[https://music.gitapp.cn](https://music.gitapp.cn)
+
 
 ## 29. 基于python的电影订票管理系统
 
@@ -266,6 +272,8 @@
 
 源码地址：[https://github.com/net936/python_xh](https://github.com/net936/python_xh)
 
+在线演示：
+[https://xh.gitapp.cn](https://xh.gitapp.cn)
 
 ## 31. 基于python+vue的农产品商城管理系统
 
