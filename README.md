@@ -1,8 +1,7 @@
 # 计算机课程设计/毕业设计作品
 
-## 简介
 
-计算机课程设计/毕业设计指南，为计算机相关专业毕业生提供源码、数据库安装、远程调试等相关服务，提供功能讲解视频，可以帮助远程部署成功（vx：lengqin1024）。下面是25个基于python/django的毕业设计/课程设计。如需java毕业设计/课程设计，请移步至[这里](https://github.com/geeeeeeeek/code_products/blob/main/java_readme.md)
+> 计算机课程设计/毕业设计指南，为计算机相关专业毕业生提供源码、数据库安装、远程调试等相关服务，提供功能讲解视频，可以帮助远程部署成功（vx：lengqin1024）。下面是50个基于python/django的毕业设计/课程设计。如需java毕业设计/课程设计，请移步至[这里](https://github.com/geeeeeeeek/code_products/blob/main/java_readme.md)
 
 
 ## 1. 网上商城系统
@@ -227,6 +226,19 @@
 功能包括：总览、社团管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
 
 源码地址： [https://github.com/geeeeeeeek/python_team](https://github.com/geeeeeeeek/python_team)
+
+
+
+## 26. 基于python的旅游景区管理系统
+
+功能包括：景区管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_travel2](https://github.com/net936/python_travel2)
+
+
+
+
+
 
 
 
