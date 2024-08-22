@@ -267,6 +267,59 @@
 源码地址：[https://github.com/net936/python_xh](https://github.com/net936/python_xh)
 
 
+## 31. 基于python+vue的农产品商城管理系统
+
+功能包括：农产品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_ncp](https://github.com/net936/python_ncp)
+
+## 32. 基于python+vue的蛋糕商城管理系统
+
+功能包括：蛋糕管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_dg](https://github.com/net936/python_dg)
+
+## 33. 基于python+vue的酒店管理系统
+
+功能包括：酒店管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_jiudian](https://github.com/net936/python_jiudian)
+
+
+## 34. 基于python+vue的口腔牙科管理系统
+
+功能包括：服务管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_teeth](https://github.com/net936/python_teeth)
+
+
+
+## 35. 基于python+vue的健身房管理系统
+
+功能包括：服务管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_jianshen](https://github.com/net936/python_jianshen)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
