@@ -237,6 +237,34 @@
 
 
 
+## 27. 基于python的门诊挂号管理系统
+
+功能包括：科室管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_gh](https://github.com/net936/python_gh)
+
+
+
+## 28. 基于python的音乐推荐管理系统
+
+功能包括：音乐管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_music](https://github.com/net936/python_music)
+
+
+## 29. 基于python的电影订票管理系统
+
+功能包括：电影管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_movie](https://github.com/net936/python_movie)
+
+
+
+## 30. 基于python的鲜花商城管理系统
+
+功能包括：鲜花管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_xh](https://github.com/net936/python_xh)
 
 
 
