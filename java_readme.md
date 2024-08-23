@@ -169,3 +169,176 @@ https://github.com/geeeeeeeek/java_pet
 https://github.com/geeeeeeeek/java_job
 
 
+
+
+## 15. 基于java的旅游景区管理系统
+
+功能包括：景区管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_travel2](https://github.com/net936/java_travel2)
+
+
+
+## 16. 基于java的门诊挂号管理系统
+
+功能包括：科室管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_gh](https://github.com/net936/java_gh)
+
+
+
+## 17. 基于java的音乐推荐管理系统
+
+功能包括：音乐管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_music](https://github.com/net936/java_music)
+
+在线演示：
+[https://music.gitapp.cn](https://music.gitapp.cn)
+
+
+## 18. 基于java的电影订票管理系统
+
+功能包括：电影管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_movie](https://github.com/net936/java_movie)
+
+
+
+## 19. 基于java的鲜花商城管理系统
+
+功能包括：鲜花管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_xh](https://github.com/net936/java_xh)
+
+在线演示：
+[https://xh.gitapp.cn](https://xh.gitapp.cn)
+
+## 20. 基于java+vue的农产品商城管理系统
+
+功能包括：农产品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_ncp](https://github.com/net936/java_ncp)
+
+## 21. 基于java+vue的蛋糕商城管理系统
+
+功能包括：蛋糕管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_dg](https://github.com/net936/java_dg)
+
+## 22. 基于java+vue的酒店管理系统
+
+功能包括：酒店管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_jiudian](https://github.com/net936/java_jiudian)
+
+
+## 23. 基于java+vue的口腔牙科管理系统
+
+功能包括：服务管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_teeth](https://github.com/net936/java_teeth)
+
+
+
+## 24. 基于java+vue的健身房管理系统
+
+功能包括：服务管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_jianshen](https://github.com/net936/java_jianshen)
+
+
+## 25. 基于java+springboot+vue的体育场馆预约管理系统
+
+功能包括：场馆管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_tiyu](https://github.com/net936/java_tiyu)
+
+## 26. 基于java+springboot+vue的房产销售管理系统
+
+功能包括：房源管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_fang](https://github.com/net936/java_fang)
+
+## 27. 基于java+springboot+vue的美容预约管理系统
+
+功能包括：服务管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_face](https://github.com/net936/java_face)
+
+## 28. 基于java+springboot+vue的新闻管理系统
+
+功能包括：新闻管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_news](https://github.com/net936/java_news)
+
+## 29. 基于java+springboot+vue的摄影预约管理系统
+
+功能包括：项目管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_photo](https://github.com/net936/java_photo)
+
+## 30. 基于java+springboot+vue的民宿客房管理系统
+
+功能包括：客房管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_minsu](https://github.com/net936/java_minsu)
+
+## 31. 基于java+springboot+vue的鲜牛奶订购管理系统
+
+功能包括：套餐管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_milk](https://github.com/net936/java_milk)
+
+## 32. 基于java+springboot+vue的反诈宣传视频管理系统
+
+功能包括：视频管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_fz](https://github.com/net936/java_fz)
+
+## 33. 基于java+springboot+vue的商城管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_mall](https://github.com/net936/java_mall)
+
+## 34. 基于java+springboot+vue的家具商城管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_jiaju](https://github.com/net936/java_jiaju)
+
+## 35. 基于java+springboot+vue的服装商城管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_fu](https://github.com/net936/java_fu)
+
+## 36. 基于java+springboot+vue的婚恋交友管理系统
+
+功能包括：会员管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_love](https://github.com/net936/java_love)
+
+## 37. 基于java+springboot+vue的母婴商城管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_muying](https://github.com/net936/java_muying)
+
+
+## 38. 基于java+springboot+vue的体育用品管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_sports](https://github.com/net936/java_sports)
+
+
+## 39. 基于java+springboot+vue的大学生竞赛报名管理系统
+
+功能包括：赛事管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/java_bm](https://github.com/net936/java_bm)
+
+
+
