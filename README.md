@@ -309,20 +309,97 @@
 源码地址：[https://github.com/net936/python_jianshen](https://github.com/net936/python_jianshen)
 
 
+## 36. 基于python+vue的体育场馆预约管理系统
+
+功能包括：场馆管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_tiyu](https://github.com/net936/python_tiyu)
+
+## 37. 基于python+vue的房产销售管理系统
+
+功能包括：房源管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_fang](https://github.com/net936/python_fang)
+
+## 38. 基于python+vue的美容预约管理系统
+
+功能包括：服务管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_face](https://github.com/net936/python_face)
+
+## 39. 基于python+vue的新闻管理系统
+
+功能包括：新闻管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_news](https://github.com/net936/python_news)
+
+## 40. 基于python+vue的摄影预约管理系统
+
+功能包括：项目管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_photo](https://github.com/net936/python_photo)
+
+## 41. 基于python+vue的民宿客房管理系统
+
+功能包括：客房管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_minsu](https://github.com/net936/python_minsu)
+
+## 42. 基于python+vue的鲜牛奶订购管理系统
+
+功能包括：套餐管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_milk](https://github.com/net936/python_milk)
+
+## 43. 基于python+vue的反诈宣传视频管理系统
+
+功能包括：视频管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_fz](https://github.com/net936/python_fz)
+
+## 44. 基于python+vue的商城管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_mall](https://github.com/net936/python_mall)
+
+## 45. 基于python+vue的家具商城管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_jiaju](https://github.com/net936/python_jiaju)
+
+## 46. 基于python+vue的服装商城管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_fu](https://github.com/net936/python_fu)
+
+## 47. 基于python+vue的婚恋交友管理系统
+
+功能包括：会员管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_love](https://github.com/net936/python_love)
+
+## 48. 基于python+vue的母婴商城管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_muying](https://github.com/net936/python_muying)
 
 
+## 49. 基于python+vue的体育用品管理系统
+
+功能包括：商品管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+
+源码地址：[https://github.com/net936/python_sports](https://github.com/net936/python_sports)
 
 
+## 50. 基于python+vue的大学生竞赛报名管理系统
 
+功能包括：赛事管理、分类管理、成员管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
 
-
-
-
-
-
-
-
-
+源码地址：[https://github.com/net936/python_bm](https://github.com/net936/python_bm)
 
 
 
