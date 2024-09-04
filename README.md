@@ -1,7 +1,7 @@
 # 计算机课程设计/毕业设计作品
 
 
-> 计算机课程设计/毕业设计指南，为计算机相关专业毕业生提供源码、数据库安装、远程调试等相关服务，提供功能讲解视频，可以帮助远程部署成功（vx：lengqin1024）。下面是50个基于python/django的毕业设计/课程设计。如需java毕业设计/课程设计，请移步至[这里](https://github.com/geeeeeeeek/code_products/blob/main/java_readme.md)
+> 计算机课程设计/毕业设计指南，为计算机相关专业毕业生提供源码、数据库安装、远程调试等相关服务，提供功能讲解视频，可以提供付费咨询服务（vx：lengqin1024）。下面是50个基于python/django的毕业设计/课程设计。如需java毕业设计/课程设计，请移步至[这里](https://github.com/geeeeeeeek/code_products/blob/main/java_readme.md)
 
 
 ## 1. 网上商城系统
