@@ -11,7 +11,7 @@
 - 前台功能包括：首页、家政详情、家政入驻、用户中心模块。
 - 后台功能包括：家政管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、统计分析、系统信息模块。
 
-源码地址：https://github.com/geeeeeeeek/java_jiazheng
+源码地址：[https://github.com/geeeeeeeek/java_jiazheng](https://github.com/geeeeeeeek/java_jiazheng)
 
 ### 2.基于java的宠物领养管理系统
 
@@ -20,7 +20,7 @@
 - 前台功能包括：首页、宠物详情页、领养、用户中心模块。
 - 后台功能包括：总览、领养管理、宠物管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
 
-源码地址：https://github.com/geeeeeeeek/java_adopt
+源码地址：[https://github.com/geeeeeeeek/java_adopt](https://github.com/geeeeeeeek/java_adopt)
 
 ### 3.基于java的汽车租赁管理系统/租车系统
 
@@ -29,7 +29,7 @@
 - 前台功能包括：首页、车辆详情、车辆预订、用户中心模块。
 - 后台功能包括：车辆管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、统计分析、系统信息模块。
 
-源码地址：https://github.com/geeeeeeeek/java_zuche
+源码地址：[https://github.com/geeeeeeeek/java_zuche](https://github.com/geeeeeeeek/java_zuche)
 
 
 ### 4.基于java的大学生社团管理系统
@@ -41,7 +41,7 @@
 - 前台功能包括：首页、社团详情、申请加入、用户中心模块。
 - 后台功能包括：社团管理、分类管理、标签管理、成员管理、评论管理、用户管理、运营管理、日志管理、统计分析、系统信息模块。
 
-源码地址：https://github.com/geeeeeeeek/java_team
+源码地址：[https://github.com/geeeeeeeek/java_team](https://github.com/geeeeeeeek/java_team)
 
 ### 5. 网上商城系统
 
@@ -56,7 +56,7 @@
 
 源码地址：
 
-https://github.com/geeeeeeeek/java_shop
+[https://github.com/geeeeeeeek/java_shop](https://github.com/geeeeeeeek/java_shop)
 
 ### 6.在线视频点播网站
 
@@ -69,7 +69,7 @@ https://github.com/geeeeeeeek/java_shop
 源码下载：
 
 
-https://github.com/geeeeeeeek/java_video
+[https://github.com/geeeeeeeek/java_video](https://github.com/geeeeeeeek/java_video)
 
 ### 7.在线图书借阅系统
 
@@ -84,7 +84,7 @@ https://github.com/geeeeeeeek/java_video
 源码下载：
 
 
-https://github.com/geeeeeeeek/java_book
+[https://github.com/geeeeeeeek/java_book](https://github.com/geeeeeeeek/java_book)
 
 
 
@@ -95,7 +95,7 @@ https://github.com/geeeeeeeek/java_book
 源码下载：
 
 
-https://github.com/geeeeeeeek/java_zf
+[https://github.com/geeeeeeeek/java_zf](https://github.com/geeeeeeeek/java_zf)
 
 ### 9.基于java+springboot+vue的家教预约网站-家教信息平台系统
 
@@ -104,7 +104,7 @@ https://github.com/geeeeeeeek/java_zf
 源码下载：
 
 
-https://github.com/geeeeeeeek/java_jiajiao
+[https://github.com/geeeeeeeek/java_jiajiao](https://github.com/geeeeeeeek/java_jiajiao)
 
 ### 10.基于java+springboot+vue的外卖点餐系统
 
@@ -117,7 +117,7 @@ https://github.com/geeeeeeeek/java_jiajiao
 
 源码下载：
 
-https://github.com/geeeeeeeek/java_food
+[https://github.com/geeeeeeeek/java_food](https://github.com/geeeeeeeek/java_food)
 
 ### 11.基于java+springboot+vue的酒店预定网站-酒店客房管理系统
 
@@ -129,7 +129,7 @@ https://github.com/geeeeeeeek/java_food
 
 源码下载：
 
-https://github.com/geeeeeeeek/java_hotel
+[https://github.com/geeeeeeeek/java_hotel](https://github.com/geeeeeeeek/java_hotel)
 
 ### 12.基于java+springboot+vue的旅游信息网站-旅游景点门票管理系统
 
@@ -144,7 +144,7 @@ https://github.com/geeeeeeeek/java_hotel
 
 源码下载：
 
-https://github.com/geeeeeeeek/java_travel
+[https://github.com/geeeeeeeek/java_travel](https://github.com/geeeeeeeek/java_travel)
 
 ### 13.基于java+springboot+vue开发的宠物商店-宠物管理系统设计与实现
 
@@ -155,7 +155,7 @@ https://github.com/geeeeeeeek/java_travel
 
 源码下载：
 
-https://github.com/geeeeeeeek/java_pet
+[https://github.com/geeeeeeeek/java_pet](https://github.com/geeeeeeeek/java_pet)
 
 ### 14.基于java的求职招聘系统
 
@@ -166,7 +166,7 @@ https://github.com/geeeeeeeek/java_pet
 
 源码地址：
 
-https://github.com/geeeeeeeek/java_job
+[https://github.com/geeeeeeeek/java_job](https://github.com/geeeeeeeek/java_job)
 
 
 
